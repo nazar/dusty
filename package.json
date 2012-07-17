@@ -17,7 +17,7 @@
   ],
   "main": "./lib/dusty",
   "dependencies": {
-    "dust": "0.3.x",
+    "dustjs-linkedin":"1.0.0"
     "optimist": "0.3.x",
     "async": "0.1.x",
     "underscore": "1.2.x"
